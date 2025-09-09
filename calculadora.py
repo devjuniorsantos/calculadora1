@@ -12,5 +12,4 @@ elif operador == "*":
     print(f"O resultado da multiplicação é: {num1 * num2}")
 
 elif operador == "/":
-    print(f"O resultado da divisão é: {num1 / num2}"))
-        
+    print(f"O resultado da divisão é: {num1 / num2}")
